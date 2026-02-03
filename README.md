@@ -3,9 +3,3 @@ Repository for projects in the Python3 programming language. Course exercises an
 
 ## Technologies
 - Python3 and its libraries.
-
-## Contact
-- Social networks: https://github.com/AndersonCSM
-- Contact email: andersoncarlos799@gmail.com
-
-
