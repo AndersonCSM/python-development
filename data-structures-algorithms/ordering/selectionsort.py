@@ -10,7 +10,7 @@ def get_min(arr):
     return min_idx
 
 
-def selection_sort(arr):
+def selectionsort(arr):
     aux = []
 
     for i in range(len(arr)):
@@ -24,7 +24,7 @@ def selection_sort(arr):
 def main():
     arr = [1, 4, 10, 20, 2, 30, 9, 6, 7]
 
-    print(selection_sort(arr))
+    print(selectionsort(arr))
 
 
 main()

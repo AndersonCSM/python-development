@@ -27,7 +27,11 @@ def pesquisa_binaria(lista, item):
     return None
 
 
-lista_1 = [1, 3, 5, 7, 9]
-item_1 = 3
+def main():
+    lista_1 = [1, 3, 5, 7, 9]
+    item_1 = 3
 
-pesquisa_binaria(lista_1, item_1)
+    pesquisa_binaria(lista_1, item_1)
+
+
+main()
