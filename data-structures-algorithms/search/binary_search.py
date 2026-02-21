@@ -12,12 +12,7 @@ def pesquisa_binaria(lista, item):
         meio = (baixo + alto) // 2
         chute = lista[meio]
 
-        print(f"Baixo: {baixo}")
-        print(f"meio : {meio}")
-        # print(f"Chute: {chute}")
-        print(f"Maior: {alto}\n")
         if chute == item:
-            print("Sucesso!")
             return item
 
         if chute > item:
